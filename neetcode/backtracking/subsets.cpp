@@ -9,7 +9,7 @@ void dfs(std::vector<std::vector<int>>& combinations, std::vector<int> current_c
 
     for (auto i = index; i  < nums.size(); i++) {
         current_combination.emplace_back(nums[i]);
-        dfs(combinations, current_combination, visited, index + 1, nums);
+        dfs(combinations, current_combination, visited, i + 1, nums);
         combinations.emplace_back(current_combination);
         current_combination.pop_back();
     }
