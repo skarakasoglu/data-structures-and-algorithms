@@ -1,0 +1,3 @@
+/Users/suleymankarakasoglu/CLionProjects/data-structures-and-algorithms/cmake-build-debug/CMakeFiles/data_structures_and_algorithms.dir
+/Users/suleymankarakasoglu/CLionProjects/data-structures-and-algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/suleymankarakasoglu/CLionProjects/data-structures-and-algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
