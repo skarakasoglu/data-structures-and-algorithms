@@ -144,7 +144,7 @@ This repository contains my solutions for some LeetCode problems using C++.
 - [ ] Coin Change II
 - [ ] Target Sum
 - [ ] Interleaving String
-- [ ] Longest Increasing Path in a Matrix
+- [x] Longest Increasing Path in a Matrix
 - [ ] Distinct Subsequences
 - [ ] Edit Distance
 - [ ] Burst Balloons
