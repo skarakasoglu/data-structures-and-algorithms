@@ -22,7 +22,7 @@ This repository contains my solutions for some LeetCode problems using C++.
 
 ## 3. Sliding Window
 - [x] Best Time to Buy & Sell Stock
-- [ ] Longest Substring Without Repeating Characters
+- [x] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Permutation in String
 - [ ] Minimum Window Substring
