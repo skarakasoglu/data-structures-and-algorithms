@@ -8,7 +8,7 @@ This repository contains my solutions for some LeetCode problems using C++.
 - [x] Two Sum
 - [x] Group Anagrams
 - [x] Top K Frequent Elements
-- [ ] Product of Array Except Self
+- [x] Product of Array Except Self
 - [ ] Valid Sudoku
 - [ ] Encode and Decode Strings
 - [ ] Longest Consecutive Sequence
@@ -104,8 +104,8 @@ This repository contains my solutions for some LeetCode problems using C++.
 ## 11. Graphs
 - [x] Number of Islands
 - [x] Clone Graph
-- [ ] Max Area of Island
-- [ ] Pacific Atlantic Waterflow
+- [x] Max Area of Island
+- [x] Pacific Atlantic Waterflow
 - [ ] Surrounded Regions
 - [ ] Rotting Oranges
 - [ ] Walls and Gates
