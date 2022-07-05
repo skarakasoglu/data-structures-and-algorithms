@@ -23,7 +23,7 @@ This repository contains my solutions for some LeetCode problems using C++.
 ## 3. Sliding Window
 - [x] Best Time to Buy & Sell Stock
 - [x] Longest Substring Without Repeating Characters
-- [ ] Longest Repeating Character Replacement
+- [x] Longest Repeating Character Replacement
 - [ ] Permutation in String
 - [ ] Minimum Window Substring
 - [ ] Sliding Window Maximum
@@ -31,7 +31,7 @@ This repository contains my solutions for some LeetCode problems using C++.
 ## 4. Stack
 - [x] Valid Parantheses
 - [x] Min Stack
-- [ ] Evaluate Reverse Polish Nation
+- [x] Evaluate Reverse Polish Nation
 - [ ] Generate Parantheses
 - [ ] Daily Temperatures
 - [ ] Car Fleet
