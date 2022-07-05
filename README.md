@@ -18,7 +18,7 @@ This repository contains my solutions for some LeetCode problems using C++.
 - [x] Two Sum II
 - [x] 3Sum
 - [x] Container with Most Water
-- [ ] Trapping Rain Water
+- [x] Trapping Rain Water
 
 ## 3. Sliding Window
 - [x] Best Time to Buy & Sell Stock
