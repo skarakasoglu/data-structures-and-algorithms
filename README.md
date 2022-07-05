@@ -68,7 +68,7 @@ This repository contains my solutions for some LeetCode problems using C++.
 - [x] Subtree of Another Tree
 - [x] Lowest Common Ancestor of a BST
 - [x] Binary Tree Level Order Traversal
-- [ ] Binary Tree Right Side View
+- [x] Binary Tree Right Side View
 - [ ] Count Good Nodes in a Binary Tree
 - [ ] Validate Binary Search Tree
 - [ ] Kth Smallest Element in a BST
