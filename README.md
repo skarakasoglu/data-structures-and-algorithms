@@ -55,7 +55,7 @@ This repository contains my solutions for some LeetCode problems using C++.
 - [ ] Add Two Numbers
 - [x] Linked List Cycle
 - [ ] Find the Duplicate Number
-- [ ] LRU Cache
+- [x] LRU Cache
 - [x] Merge K Sorted Lists
 - [ ] Reverse Nodes in K-Group
 
