@@ -70,7 +70,7 @@ This repository contains my solutions for some LeetCode problems using C++.
 - [x] Binary Tree Level Order Traversal
 - [x] Binary Tree Right Side View
 - [ ] Count Good Nodes in a Binary Tree
-- [ ] Validate Binary Search Tree
+- [x] Validate Binary Search Tree
 - [ ] Kth Smallest Element in a BST
 - [ ] Construct Tree from Preorder and Inorder Traversal
 - [ ] Binary Tree Max Path Sum
