@@ -71,7 +71,7 @@ This repository contains my solutions for some LeetCode problems using C++.
 - [x] Binary Tree Right Side View
 - [x] Count Good Nodes in a Binary Tree
 - [x] Validate Binary Search Tree
-- [ ] Kth Smallest Element in a BST
+- [x] Kth Smallest Element in a BST
 - [ ] Construct Tree from Preorder and Inorder Traversal
 - [ ] Binary Tree Max Path Sum
 - [ ] Serialize and Deserialize Binary Tree
